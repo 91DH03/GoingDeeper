@@ -1,6 +1,6 @@
 # GoingDeeper - NLP
 
-[GD-02] SentencePiece
+[GD-02] [SentencePiece](https://github.com/kongdonghwi/GoingDeeper/blob/49ee51a9365fb92c9963eadca467fbb738c3ce8b/%5BGD-02%5D%20SentencePiece.ipynb)
 
 [GD-04] TFIDF_vectorization
 
