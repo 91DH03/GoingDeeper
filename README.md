@@ -1,4 +1,4 @@
-# GoingDeeper
+# GoingDeeper - NLP
 
 [GD-02] SentencePiece
 
